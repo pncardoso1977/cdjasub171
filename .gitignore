@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Public folder: ignorar ficheiros específicos
+/public/playlist.json
+/public/config.json
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
