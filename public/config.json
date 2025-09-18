@@ -10,7 +10,7 @@
   "secondaryForeground": "0 0% 100%",// Branco
   "border": "120 60% 20%",           // Verde mais escuro para bordas
   "input": "0 0% 20%",               // Fundo de input preto mais claro
-  "ring": "120 60% 40%"              // Verde do logo
+  "ring": "121 60% 40%"              // Verde do logo
 },
   "admin": {
     "username": "admin",
